@@ -14,4 +14,4 @@ If something doesn’t work or a mistake have been made, please [file an issue](
 
 | Books |	Subject | Attached code |
 | ----- | ------- | ------------- |
-| Speaking JavaScript | Javascript |	Example_1 |
+| Speaking JavaScript | Javascript |	primitives-and-objects |
