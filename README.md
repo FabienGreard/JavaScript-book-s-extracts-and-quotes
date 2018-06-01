@@ -1,4 +1,4 @@
-# JavaScript-book-s-extracts-and-quotes
+# JavaScript-books-extracts-and-quotes
 
 Working examples from books i have read. You may have a look at this file : https://goo.gl/Yq6Kmq
 
