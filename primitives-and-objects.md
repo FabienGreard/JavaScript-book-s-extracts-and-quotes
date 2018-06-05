@@ -5,7 +5,7 @@
 [] === [] // false
 {} === {} // false
 
-//primatives arn't
+//primatives arn't unique
 1 === 1 // true
 'Hi' === 'Hi' // true
 true === !'' // true
