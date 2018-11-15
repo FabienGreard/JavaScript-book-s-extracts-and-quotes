@@ -17,3 +17,4 @@ If something doesn’t work or a mistake have been made, please [file an issue](
 | Books |	Subject | Attached code |
 | ----- | ------- | ------------- |
 | Speaking JavaScript | Javascript |	primitives-and-objects |
+| Speaking JavaScript | Javascript |	booleans |
