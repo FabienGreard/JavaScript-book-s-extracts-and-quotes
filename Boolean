@@ -1,0 +1,9 @@
+Whenever JavaScript expects a boolean value (e.g., for the condition of an if statement), 
+any value can be used. It will be interpreted as either true or false. 
+
+The following values are interpreted as false:
+
+- undefined, null
+- Boolean: false
+- Number: 0, NaN
+- String: ''
