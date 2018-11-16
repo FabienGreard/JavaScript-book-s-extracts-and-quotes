@@ -23,4 +23,4 @@ If something doesn’t work or a mistake have been made, please [file an issue](
 
 | Books |	topic | Definition |
 | ----- | ------- | ------------- |
-| Speaking JavaScript | closure |	A closure is a function plus the connection to the variables of its surrounding scopes.  |
+| Speaking JavaScript | Closure |	A closure is a function plus the connection to the variables of its surrounding scopes.  |
