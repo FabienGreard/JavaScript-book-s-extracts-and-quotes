@@ -14,7 +14,13 @@ If something doesn’t work or a mistake have been made, please [file an issue](
 
 ## Examples and links
 
-| Books |	Subject | Attached code |
+| Books |	 Attached code |
+| ----- |  ------------- |
+| Speaking JavaScript | primitives-and-objects |
+| Speaking JavaScript |	booleans |
+
+## Definitions
+
+| Books |	topic | Definition |
 | ----- | ------- | ------------- |
-| Speaking JavaScript | Javascript |	primitives-and-objects |
-| Speaking JavaScript | Javascript |	booleans |
+| Speaking JavaScript | closure |	A closure is a function plus the connection to the variables of its surrounding scopes.  |
