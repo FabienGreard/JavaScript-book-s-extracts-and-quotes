@@ -11,6 +11,7 @@ If something doesn’t work or a mistake have been made, please [file an issue](
 | [Speaking JavaScript](http://speakingjs.com/es5/index.html) | Dr. Axel Raushmayer |
 | [Effective JavaScript](http://31.210.87.4/ebook/pdf/JavaScript_68_Specific_Ways_to_Harness_the_Power_of_JavaScript_2013.pdf) | David Herman |
 | [Eloquent Javascript](http://eloquentjavascript.net/) | Marijin Haverbeke |
+|[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | Kyle Simpson |
 
 ## Examples and links
 
