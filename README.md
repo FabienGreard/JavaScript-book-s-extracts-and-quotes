@@ -20,6 +20,7 @@ If something doesn’t work or a mistake have been made, please [file an issue](
 | Speaking JavaScript | primitives-and-objects |
 | Speaking JavaScript |	booleans |
 | Speaking JavaScript | handling-rounding-errors |
+| Speaking JavaScript | hoisting |
 
 ## Definitions
 
