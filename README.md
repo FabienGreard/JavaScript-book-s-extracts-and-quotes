@@ -25,3 +25,4 @@ If something doesn’t work or a mistake have been made, please [file an issue](
 | Books |	topic | Definition |
 | ----- | ------- | ------------- |
 | Speaking JavaScript | Closure |	A closure is a function plus the connection to the variables of its surrounding scopes.  |
+| Speaking JavaScript | Coercion | In JavaScript, the main way of dealing with a value whose type doesn’t fit is to coerce it to the correct type. Coercion means implicit type conversion.  |
