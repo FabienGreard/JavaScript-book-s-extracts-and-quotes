@@ -26,4 +26,4 @@ If something doesn’t work or a mistake have been made, please [file an issue](
 | ----- | ------- | ------------- |
 | Speaking JavaScript | Closure |	A closure is a function plus the connection to the variables of its surrounding scopes.  |
 | Speaking JavaScript | Coercion | In JavaScript, the main way of dealing with a value whose type doesn’t fit is to coerce it to the correct type. Coercion means implicit type conversion.  |
-| Speaking | Hoisting | Hoisting means “moving to the beginning of a scope.” Function declarations are hoisted completely, variable declarations only partially. |
+| Speaking JavaScript | Hoisting | Hoisting means “moving to the beginning of a scope.” Function declarations are hoisted completely, variable declarations only partially. |
