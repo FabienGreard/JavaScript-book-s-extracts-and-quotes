@@ -25,7 +25,7 @@ If something doesn’t work or a mistake have been made, please [file an issue](
 | Books |	topic | Definition |
 | ----- | ------- | ------------- |
 | You-Dont-Know-JS | Statement | In a computer language, a group of words, numbers, and operators that performs a specific task is a statement. |
-| You-Dont-Know-JS | Expression  | An expression is any reference to a variable or value, or a set of variable(s) and value(s) combined with operators. |
+| You-Dont-Know-JS | Expression  | Statements are made up of one or more expressions. An expression is any reference to a variable or value, or a set of variable(s) and value(s) combined with operators. |
 | Speaking JavaScript | Closure |	A closure is a function plus the connection to the variables of its surrounding scopes.  |
 | Speaking JavaScript | Coercion | In JavaScript, the main way of dealing with a value whose type doesn’t fit is to coerce it to the correct type. Coercion means implicit type conversion.  |
 | Speaking JavaScript | Hoisting | Hoisting means “moving to the beginning of a scope.” Function declarations are hoisted completely, variable declarations only partially. |
