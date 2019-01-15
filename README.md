@@ -30,3 +30,8 @@ If something doesn’t work or a mistake have been made, please [file an issue](
 | Speaking JavaScript | Coercion | In JavaScript, the main way of dealing with a value whose type doesn’t fit is to coerce it to the correct type. Coercion means implicit type conversion.  |
 | Speaking JavaScript | Hoisting | Hoisting means “moving to the beginning of a scope.” Function declarations are hoisted completely, variable declarations only partially. |
 
+## Quotes
+
+| Author | Quote |
+| ------ | ----- |
+| Donald Knuth | People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones. |
